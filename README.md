@@ -3,10 +3,15 @@
 
 # Key features are :
 -This model is trained on Tensorflow-Keras object classification.
+
 -To train the model, famous Kaggle Dataset which consists of 120 different breeds, out of which 10 famous breeds were taken for simplicity.
+
 -Took nearly 860 images of 10 breeds.
+
 -For training,Resnet50 model as base model is used for feature extraction.
+
 -After training, training accuracy reached 98% with testing accuracy nearing 94%.
+
 -built a wep application using flask API but couldn't deploy the model as it would require me to buy a costly gpu instance.
 
 
