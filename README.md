@@ -2,7 +2,7 @@
 -This is a project which detects 10 different dog breeds
 
 # Key features are :
--This model is trained on Tensorflow 2.3.0 object classification.
+-This model is trained on Tensorflow-Keras object classification.
 -To train the model, famous Kaggle Dataset which consists of 120 different breeds, out of which 10 famous breeds were taken for simplicity.
 -Took nearly 860 images of 10 breeds.
 -For training,Resnet50 model as base model is used for feature extraction.
